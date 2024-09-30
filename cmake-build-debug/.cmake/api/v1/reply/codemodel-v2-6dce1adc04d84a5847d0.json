@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "etu_2024_04_os_lab",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lab1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab1-Debug-627fac423e84915c4ee4.json",
+					"name" : "lab1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab2-Debug-0434956abe7b47353608.json",
+					"name" : "lab2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab3_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab3_1-Debug-340a3e534e20eebebb2b.json",
+					"name" : "lab3_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab3_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab3_2-Debug-88bc6920f4ceb1279383.json",
+					"name" : "lab3_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab4_1_disp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab4_1_disp-Debug-1c6cc27512ad73c61944.json",
+					"name" : "lab4_1_disp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab4_1_read::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab4_1_read-Debug-7ff9df5ec278e0870fbb.json",
+					"name" : "lab4_1_read",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab4_1_write::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab4_1_write-Debug-f2a7e3aca4770f4bd910.json",
+					"name" : "lab4_1_write",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab4_2_client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab4_2_client-Debug-71ac91070fc428039a0e.json",
+					"name" : "lab4_2_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab4_2_serv::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab4_2_serv-Debug-f4335936ab6b3f327491.json",
+					"name" : "lab4_2_serv",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Keltasar/CLionProjects/etu_2024_04_os_lab/cmake-build-debug",
+		"source" : "C:/Users/Keltasar/CLionProjects/etu_2024_04_os_lab"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

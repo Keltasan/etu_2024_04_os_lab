@@ -1,0 +1,11 @@
+C:/Users/Keltasar/CLionProjects/etu_2024_04_os_lab/cmake-build-debug/CMakeFiles/lab1.dir
+C:/Users/Keltasar/CLionProjects/etu_2024_04_os_lab/cmake-build-debug/CMakeFiles/lab2.dir
+C:/Users/Keltasar/CLionProjects/etu_2024_04_os_lab/cmake-build-debug/CMakeFiles/lab3_1.dir
+C:/Users/Keltasar/CLionProjects/etu_2024_04_os_lab/cmake-build-debug/CMakeFiles/lab3_2.dir
+C:/Users/Keltasar/CLionProjects/etu_2024_04_os_lab/cmake-build-debug/CMakeFiles/lab4_1_disp.dir
+C:/Users/Keltasar/CLionProjects/etu_2024_04_os_lab/cmake-build-debug/CMakeFiles/lab4_1_read.dir
+C:/Users/Keltasar/CLionProjects/etu_2024_04_os_lab/cmake-build-debug/CMakeFiles/lab4_1_write.dir
+C:/Users/Keltasar/CLionProjects/etu_2024_04_os_lab/cmake-build-debug/CMakeFiles/lab4_2_serv.dir
+C:/Users/Keltasar/CLionProjects/etu_2024_04_os_lab/cmake-build-debug/CMakeFiles/lab4_2_client.dir
+C:/Users/Keltasar/CLionProjects/etu_2024_04_os_lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Keltasar/CLionProjects/etu_2024_04_os_lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
